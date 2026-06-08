@@ -1,4 +1,5 @@
 # 📡 AM Simulation — MAKAUT EC401 Analog Communication
+#https://ad118-a11y.github.io/am-simulation/
 
 > **Simulation of AM Transmitter and Envelope Detector Receiver under Noisy Channel**  
 > A fully client-side, interactive browser tool for the complete AM DSB-TC communication chain.
